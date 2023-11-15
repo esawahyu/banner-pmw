@@ -80,6 +80,17 @@ p{
 .cta-banner-wrapper{
   width: 100%;
 }
+
+.cta-banner-wrapper input{
+  display: flex;
+  padding: 10px 110px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  align-self: stretch;
+  border-radius: 12px;
+}
+
 .cta-button{
   display: flex;
   padding: 10px 128px;
